@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Allure">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8D6B3"/>
+      <stop offset="1" stop-color="#C9A84C"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#111111"/>
+  <path d="M32 12 L46 52 L39.5 52 L36.2 42 L27.8 42 L24.5 52 L18 52 Z M29.6 35.5 L34.4 35.5 L32 25 Z"
+        fill="url(#g)"/>
+</svg>
